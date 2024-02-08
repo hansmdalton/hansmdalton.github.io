@@ -1,0 +1,10 @@
+- name: Hans M. Dalton
+  photo: Dalton.png
+  info: Assistant Professor, starting August 2024
+  email: hdalton &#64; genetics dot utah dot edu
+  twitter: <a href="https://www.twitter.com/HansMDalton">&#64;HansMDalton</a>
+  number_educ: 3
+  education1: B.S. Biochemistry with Honors, U. of Michigan, lab of <a href="https://www.neubiglab.org/">Dr. Rick Neubig</a>
+  education2: Ph.D. Molecular Biology, U. of Southern California, lab of <a href="https://gero.usc.edu/labs/curranlab/">Dr. Sedan Curran</a>
+  education3: Postdoc in Human Genetics, U. of Utah, lab of <a href="https://www.chowlab.org/">Dr. Clement Chow</a>
+

@@ -1,0 +1,63 @@
+- title: "A genome-wide CRISPR screen identifies DPM1 as a modifier of DPAGT1 deficiency and ER stress"
+  image: PLOSGen_2022.png
+  description: Using inhibitory drugs, we perform two cell-based screens with CRISPR technology to determine which genes are important under DPAGT1 inhibition. We then used a living fly, that models DPAGT1-CDG in the eye, in order to determine which of the top screened genes can improve its impaired eye development. Surprisingly, we found that inhibiting other CDG-causing genes, such as our top hit Dpm1, could improve our DPAGT1-CDG cell and fly models.
+  authors: Hans M. Dalton*, Raghuvir Viswanatha*, Roderick Brathwaite Jr., Jae Sophia Zuno, Alexys R. Berman, Rebekah Rushforth, Stephanie E. Mohr, Norbert Perrimon, Clement Y. Chow
+  link:
+    url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010430
+    display: PLOS Genetics (2022)
+  highlight: 1
+
+- title: "Decoupling of Apoptosis from Activation of the ER Stress Response by the Drosophila Metallopeptidase superdeath"
+  image: Superdeath_2020.png
+  description: Using Drosophila, this study provides evidence that superdeath is a link between stress in the ER and activation of cytosolic apoptotic pathways.
+  authors: Rebecca A. S. Palu, Hans M. Dalton, Clement Y. Chow
+  link:
+    url: https://academic.oup.com/genetics/article/214/4/913/5930539
+    display: Genetics (2020)
+  highlight: 1
+
+- title: "Air Pollution Alters Caenorhabditis elegans Development and Lifespan: Responses to Traffic-Related Nanoparticulate Matter"
+  image: PLOSGen_2018.png
+  description: We exposed developmental and adult life stages of C. elegans to airborne nano-sized particulate matter (nPM) produced by traffic emissions and measured biological and molecular endpoints that changed in response.
+  authors: Amin Haghani, Hans M. Dalton, Nikoo Safi, Farimah Shirmohammadi, Constantinos Sioutas, Todd E. Morgan, Caleb E. Finch, Sean P. Curran
+  link:
+    url: https://academic.oup.com/biomedgerontology/article/74/8/1189/5368940
+    display: The Journals of Gerontology Series A (2019)
+  highlight: 0
+
+- title: "Redirection of SKN-1 abates the negative metabolic outcomes of a perceived pathogen infection"
+  image: PLOSGen_2018.png
+  description: The transcription factor SKN-1, the Caenorhabditis elegans ortholog of mammalian NRF2, mediates cytoprotective responses to diverse stresses to restore cellular homeostasis. We have discovered that pathogen exposure drives the rapid loss of somatic lipids in a SKN-1–dependent manner.
+  authors: James D. Nhan, Christian D. Turner, Sarah M. Anderson, Chia-An Yen, Hans M. Dalton, Hilary K. Cheesman, Dana L. Ruter, Nandhitha Uma Naresh, Cole M. Haynes, Alexander A. Soukas, Read Pukkila-Worley, Sean P. Curran
+  link:
+    url: https://www.pnas.org/doi/full/10.1073/pnas.1909666116
+    display: Proceedings of the National Academy of Sciences (2019)
+  highlight: 0
+
+- title: "Hypodermal responses to protein synthesis inhibition induce systemic developmental arrest and AMPK-dependent survival in Caenorhabditis elegans"
+  image: PLOSGen_2018.png
+  description: To better understand the physiological responses to impaired protein synthesis, we characterize a novel developmental arrest state that occurs when reducing protein synthesis during C. elegans development.
+  authors: Hans M. Dalton, Sean P. Curran
+  link:
+    url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007520
+    display: PLOS Genetics (2018)
+  highlight: 0
+
+- title: "Omega-3 and -6 fatty acids allocate somatic and germline lipids to ensure fitness during nutrient and oxidative stress in Caenorhabditis elegans"
+  image: PLOSGen_2018.png
+  description: Our findings functionally link the availability of somatic (survival-promoting) and germline (reproduction-promoting) lipids to SKN-1 responses to oxidative and nutrient stress.
+  authors: Dana A. Lynn, Hans M. Dalton, Jessica N. Sowa, Meng C. Wang, Alexander A. Soukas, Sean P. Curran
+  link:
+    url: https://www.pnas.org/doi/full/10.1073/pnas.1514012112
+    display: Proceedings of the National Academy of Sciences (2015)
+  highlight: 0
+
+- title: "Gain-of-function mutation in Gnao1: A murine model of epileptiform encephalopathy (EIEE17)?"
+  image: PLOSGen_2018.png
+  description: We report a dominant murine model of Gnao1-related seizures and sudden death. Our mouse model suggests a novel gain-of-function mechanism for the newly defined subset of epileptic encephalopathy (EIEE17).
+  authors: Jason M. Kehrl, Kinshuk Sahaya, Hans M. Dalton, Raelene A. Charbeneau, Kevin T. Kohut, Kristen Gilbert, Madeline C. Pelz, Jack Parent, Richard R. Neubig
+  link:
+    url: https://link.springer.com/article/10.1007/s00335-014-9509-z
+    display: Mammalian Genome (2014)
+  highlight: 0
+
