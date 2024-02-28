@@ -17,7 +17,7 @@ permalink: /research/
 Around 2,000 genes (~10%) are <strong>essential</strong> - necessary to live or for fitness. These represent a diverse set of biological functions, including metabolism, protein synthesis, transcription, the cytoskeleton, and more. Relative to their importance, there is still much unknown about these genes - including ~50 that have <a href="https://www.nature.com/articles/nrg.2017.75">no known function</a>!
 </p>
 <p align="justify">
-Given their biological importance, mutations in essential genes often underlie rare diseases in humans. Some of these, such as Congenital Disorders of Glycosylation (CDGs), are so rare that any individual disorder can have less than 50 documented patients. Despite this, rare diseases collectively affect over 30 million in the U.S. alone, and there is a great need for new therapies for these diseases. Right now, our lab is focused on CDGs, but we are expanding into additional diseases soon.
+Given their biological importance, mutations in essential genes often underlie rare diseases in humans. Some of these, such as Congenital Disorders of Glycosylation (CDGs), are so rare that any individual disorder can have less than 50 documented patients. Despite this, rare diseases collectively affect over 30 million in the U.S. alone, and there is a great need for new therapies for these diseases. Right now, our lab is focused on studying CDGs, but we are expanding into additional diseases soon.
 </p>
 
 
@@ -44,7 +44,7 @@ One of the best properties of drug repurposing is that most of the drugs tested 
 <strong>Beyond drug screening.</strong>
 
 
-Essential genes are also fascinating from a non-clinical perspective. For example, in the context of aging biology, some essential genes can actually be beneficial to inhibit as an adult animal - increasing both healthspan and lifespan! The genomics of essential genes are also interesting - for example, why are there so many essential genes, when other similar genes have been duplicated? We are very interesting in studying these questions and more!
+Essential genes are also fascinating from a basic science perspective. For example, in the context of aging biology, some essential genes can actually be beneficial to inhibit as an adult animal - increasing both healthspan and lifespan! The genomics of essential genes are also interesting - for example, why are there so many essential genes, when other similar genes have been duplicated? We are very interested in studying these questions and more!
 </p>
 
 
