@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-We are recruiting soon! Please see [vacancies]({{ site.baseurl }}/vacancies/).
+We are recruiting soon! Please see [vacancies]({{ site.baseurl }}/vacancies).
 
 ## Staff
 {% assign number_printed = 0 %}
