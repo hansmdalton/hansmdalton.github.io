@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-We are in the process of getting started at the University of Kansas - but we are always open to hear interest from driven, qualified biologists interested in working with us. The lab opens in August 2024. While we do not have official job postings (yet), they will be posted here when available.
+We are in the process of getting started at the University of Kansas - but we are always open to hear interest from driven, qualified biologists interested in working with us. The lab opens in August 2024. Official job postings will be linked here when available.
 
 <strong>PhD</strong>: Once opened, we will accept students through the <a href="https://molecularbiosciences.ku.edu/">Department of Molecular Biosciences</a> at the University of Kansas. 
 
