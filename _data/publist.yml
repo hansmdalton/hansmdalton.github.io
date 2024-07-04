@@ -10,7 +10,7 @@
 - title: "A genome-wide CRISPR screen identifies DPM1 as a modifier of DPAGT1 deficiency and ER stress"
   image: PLOSGen_2022.png
   description: Using inhibitory drugs, we perform two cell-based screens with CRISPR technology to determine which genes are important under DPAGT1 inhibition. We then used a living fly, that models DPAGT1-CDG in the eye, in order to determine which of the top screened genes can improve its impaired eye development. Surprisingly, we found that inhibiting other CDG-causing genes, such as our top hit Dpm1, could improve our DPAGT1-CDG cell and fly models.
-  authors: Hans M. Dalton(U+02731), Raghuvir Viswanatha(&#x2731), Roderick Brathwaite Jr., Jae Sophia Zuno, Alexys R. Berman, Rebekah Rushforth, Stephanie E. Mohr, Norbert Perrimon, Clement Y. Chow
+  authors: Hans M. Dalton(1), Raghuvir Viswanatha(1), Roderick Brathwaite Jr., Jae Sophia Zuno, Alexys R. Berman, Rebekah Rushforth, Stephanie E. Mohr, Norbert Perrimon, Clement Y. Chow (1 = contributed equally)
   link:
     url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010430
     display: PLOS Genetics (2022)
@@ -28,7 +28,7 @@
 - title: "Air Pollution Alters Caenorhabditis elegans Development and Lifespan: Responses to Traffic-Related Nanoparticulate Matter"
   image: PLOSGen_2018.png
   description: We exposed developmental and adult life stages of C. elegans to airborne nano-sized particulate matter (nPM) produced by traffic emissions and measured biological and molecular endpoints that changed in response.
-  authors: Amin Haghani/*/, Hans M. Dalton/*/, Nikoo Safi, Farimah Shirmohammadi, Constantinos Sioutas, Todd E. Morgan, Caleb E. Finch, Sean P. Curran
+  authors: Amin Haghani(1), Hans M. Dalton(1), Nikoo Safi, Farimah Shirmohammadi, Constantinos Sioutas, Todd E. Morgan, Caleb E. Finch, Sean P. Curran (1 = contributed equally)
   link:
     url: https://academic.oup.com/biomedgerontology/article/74/8/1189/5368940
     display: The Journals of Gerontology Series A (2019)
