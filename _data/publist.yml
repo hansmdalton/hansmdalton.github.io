@@ -1,3 +1,12 @@
+- title: "A drug repurposing screen reveals dopamine signaling as a critical pathway underlying potential therapeutics for the rare disease DPAGT1-CDG"
+  image: Z-plot_for_website.png
+  description: (PREPRINT) Using a drug repurposing screen, we find multiple therapeutics capable of improving a model of DPAGT1-CDG. Specifically, we identify dopamine signaling as a new potential therapeutic and new interacting pathway.
+  authors: Hans M. Dalton, Naomi J. Young, Alexys R. Berman, Heather D. Evans, Sydney J. Peterson, Kaylee A. Patterson, Clement Y. Chow
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2024.06.12.597770v1
+    display: bioRxiv (2024)
+  highlight: 1
+
 - title: "A genome-wide CRISPR screen identifies DPM1 as a modifier of DPAGT1 deficiency and ER stress"
   image: PLOSGen_2022.png
   description: Using inhibitory drugs, we perform two cell-based screens with CRISPR technology to determine which genes are important under DPAGT1 inhibition. We then used a living fly, that models DPAGT1-CDG in the eye, in order to determine which of the top screened genes can improve its impaired eye development. Surprisingly, we found that inhibiting other CDG-causing genes, such as our top hit Dpm1, could improve our DPAGT1-CDG cell and fly models.
@@ -14,15 +23,6 @@
   link:
     url: https://academic.oup.com/genetics/article/214/4/913/5930539
     display: Genetics (2020)
-  highlight: 1
-
-- title: "A drug repurposing screen reveals dopamine signaling as a critical pathway underlying potential therapeutics for the rare disease DPAGT1-CDG"
-  image: PLOSGen_2018.png
-  description: (PREPRINT) Using a drug repurposing screen, we find multiple therapeutics capable of improving a model of DPAGT1-CDG. Specifically, we identify dopamine signaling as a new potential therapeutic and new interacting pathway.
-  authors: Hans M. Dalton, Naomi J. Young, Alexys R. Berman, Heather D. Evans, Sydney J. Peterson, Kaylee A. Patterson, Clement Y. Chow
-  link:
-    url: https://www.biorxiv.org/content/10.1101/2024.06.12.597770v1
-    display: bioRxiv (2024)
   highlight: 0
 
 - title: "Air Pollution Alters Caenorhabditis elegans Development and Lifespan: Responses to Traffic-Related Nanoparticulate Matter"
