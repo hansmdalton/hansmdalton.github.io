@@ -14,7 +14,7 @@ permalink: /research/
 <strong>Lab research vision.</strong>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Research_Flowchart.png" alt="" style="width: 250px; float: left; margin: 0px 10px">
-Around 1,500-2,000 genes (~10%) are <strong>essential</strong> - necessary to live or for fitness. These represent a diverse set of biological functions, including metabolism, protein synthesis, transcription, the cytoskeleton, and more. Relative to their importance, there is still much unknown about these genes - including many that still have <a href="https://www.nature.com/articles/nrg.2017.75">no known function</a>!
+Around <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7779065/">1,500-2,000 genes (~10%)</a> are <strong>essential</strong> - necessary to live or for fitness. These represent a diverse set of biological functions, including metabolism, protein synthesis, transcription, the cytoskeleton, and more. Relative to their importance, there is still much unknown about these genes - including many that still have <a href="https://www.nature.com/articles/nrg.2017.75">no known function</a>!
 </p>
 <p align="justify">
 Given their biological importance, mutations in essential genes often underlie rare diseases in humans. Some of these, such as Congenital Disorders of Glycosylation (CDGs), are so rare that any individual disorder can have less than 50 documented patients. Despite this, rare diseases collectively affect over 30 million in the U.S. alone, and there is a great need for new therapies for these diseases. Right now, our lab is focused on studying CDGs, but we are expanding into additional diseases soon.
