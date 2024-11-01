@@ -8,15 +8,13 @@ permalink: /vacancies
 
 # Open positions
 
-We are in the process of getting started at the University of Kansas - but we are always open to hear interest from driven, qualified biologists interested in working with us. The lab opens in August 2024. Official job postings will be linked here when available.
+We are in the process of getting started at the University of Kansas - but we are always open to hear interest from driven, qualified biologists interested in working with us.
 
-We are currently hiring an Assistant Researcher/technician! Please see <a href="https://employment.ku.edu/staff/28270BR">this posting</a> for more details.
+<strong>PhD</strong>: We accept students through the <a href="https://molecularbiosciences.ku.edu/">Department of Molecular Biosciences</a> at the University of Kansas. 
 
-<strong>PhD</strong>: Once opened, we will accept students through the <a href="https://molecularbiosciences.ku.edu/">Department of Molecular Biosciences</a> at the University of Kansas. 
+<strong>Postdoc</strong>: We hope to have positions for postdocs available within the first few months. If you would like to express your interest in our work, and have a Ph.D. in Molecular Biology, Genetics, or a related field, you are welcome to send a 1-page cover letter of your previous work, why you are interested in our lab, and your CV. Please note that this is not an official job posting, but I will post them here once available.
 
-<strong>Postdoc</strong>: Our lab opens in August 2024, but we hope to have positions for postdocs available within the first few months. If you would like to express your interest in our work, and have a Ph.D. in Molecular Biology, Genetics, or a related field, you are welcome to send a 1-page cover letter of your previous work, why you are interested in our lab, and your CV. Please note that this is not an official job posting, but I will post them here once available.
-
-<strong>Undergraduates</strong>: We highly value the work of undergrads - there are usually many opportunities to get involved in fruit fly science and contribute directly to research in the lab. Once we open, I will post a form here that you can fill out to express your interest. Please feel free to reach out with any questions.
+<strong>Undergraduates</strong>: We highly value the work of undergrads - there are usually many opportunities to get involved in fruit fly science and contribute directly to research in the lab. If you are interested in working in the lab, please fill out this form. Typically, we do not take seniors, as it is too much of an investment for such a short amount of time (on both sides). Please note that you must be able to commit at least 10hrs a week during the working hours of 9-5pm.
 
 
 
