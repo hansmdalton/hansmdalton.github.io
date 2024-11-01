@@ -37,7 +37,7 @@ In the left example, this is an eye model of one of the diseases we study. You c
 </p>
 <p align="justify">
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Top_suppressor.png" alt="" style="width: 300px; float: left; margin: 0px 10px">
-One of the best properties of drug repurposing is that most of the drugs tested already have known mechanisms of action. This means we can also  utilize the power of fruit fly and cell genetics to test the targets of these drugs directly through genetic manipulation. This is a powerful method to confirm our hit mechanisms! Because many of these genes are conserved (especially true of essential genes), these data are very relevant for humans regardless of whether a true new therapy is found.
+One of the best properties of drug repurposing is that most of the drugs tested already have known mechanisms of action. This means we can also  utilize the power of fruit fly and cell genetics to test the targets of these drugs directly through genetic manipulation. This is a powerful method to confirm our hit mechanisms! Because many of these genes are conserved (especially true of essential genes), these data are very relevant for humans regardless of whether a true new therapy is found. Interested? <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011458">Here's a paper on drug repurposing.</a>
 </p>
 
 <p align="justify">
