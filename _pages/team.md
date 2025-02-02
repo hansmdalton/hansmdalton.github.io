@@ -8,8 +8,6 @@ permalink: /team/
 
 # Group Members
 
-We are recruiting soon! Please see [vacancies]({{ site.baseurl }}/vacancies).
-
 ## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -76,6 +74,9 @@ We are recruiting soon! Please see [vacancies]({{ site.baseurl }}/vacancies).
 </div>
 {% endif %}
 
+
+
+## Previous Rotation Students
 
 
 
