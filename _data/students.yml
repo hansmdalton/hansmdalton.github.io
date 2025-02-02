@@ -10,8 +10,12 @@
 
 
 
-- name: Test
-  photo: rock.jpg
+- name: Aidan O'Hara
+  photo: fly.png
+  info: Previous rotation student (Molecular Biosciences)
+
+  - name: Zach Opoka
+  photo: fly.png
   info: Previous rotation student (Molecular Biosciences)
 
 
