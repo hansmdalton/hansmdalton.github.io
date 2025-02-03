@@ -16,8 +16,17 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/KU_Campus.jpg" width="60%">
 </figure>
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/fly_corner.jpg" width="60%">
+</figure>
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/cell_room.jpg" width="60%">
+</figure>
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/incubator.jpg" width="60%">
+</figure>
 
 ## University of Utah, Salt Lake City, UT, USA
 From the [group of Dr. Clement Chow](http://www.chowlab.org).
