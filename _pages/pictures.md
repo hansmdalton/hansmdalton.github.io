@@ -17,15 +17,15 @@ permalink: /pictures/
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/fly_corner.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/fly_corner.jpeg" width="60%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/cell_room.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/cell_room.jpeg" width="60%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/incubator.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/incubator.jpeg" width="60%">
 </figure>
 
 ## University of Utah, Salt Lake City, UT, USA
