@@ -2,23 +2,23 @@
   photo: Dalton.png
   info: Assistant Professor
   email: hansmdalton &#64; ku dot edu
+  bsky: <a href="hansmdalton.bsky.social">hansmdalton</a>
+  linkedin: <a href="linkedin.com/in/hansmdalton">hansmdalton</a>
   twitter: <a href="https://www.twitter.com/HansMDalton">&#64;HansMDalton</a>
   number_educ: 3
   education1: B.S. Biochemistry with Honors, U. of Michigan, lab of <a href="https://www.neubiglab.org/">Dr. Rick Neubig</a>
   education2: Ph.D. Molecular Biology, U. of Southern California, lab of <a href="https://gero.usc.edu/labs/curranlab/">Dr. Sean Curran</a>
   education3: Postdoc in Human Genetics, U. of Utah, lab of <a href="https://www.chowlab.org/">Dr. Clement Chow</a>
 
+- name: Mandi Wild
+  photo: Wild.jpg
+  info: Graduate Student
+  bsky: <a href="mandi-wild.bsky.social">mandi-wild</a>
+  linkedin: <a href="https://www.linkedin.com/in/mandi-wild-7249a4237/">Mandi Wild</a>
+  
 - name: Tiffany Chan
   photo: fly.png
   info: Assistant Researcher
-
-- name: Ahnaf Sarif
-  photo: fly.png
-  info: Rotating Graduate Student
-
-- name: Mandi Wilde
-  photo: fly.png
-  info: Rotating Graduate Student
 
 - name: Maya Hull
   photo: fly.png
