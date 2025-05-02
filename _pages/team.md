@@ -25,6 +25,10 @@ permalink: /team/
   <br>
   Email: {{ member.email }}
   <br>
+  bsky: {{member.bsky}}
+  <br>
+  linkedin: {{member.linkedin}}
+  <br>
   twitter: {{member.twitter}}
   <ul style="overflow: hidden">
 
