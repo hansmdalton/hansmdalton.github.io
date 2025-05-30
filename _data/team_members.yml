@@ -17,14 +17,20 @@
   bsky: <a href="https://www.mandi-wild.bsky.social">mandi-wild</a>
   linkedin: <a href="https://www.linkedin.com/in/mandi-wild-7249a4237/">Mandi Wild</a>
   
-- name: Tiffany Chan
-  photo: fly.png
+- name: Viet Le
+  photo: Viet.png
   info: Assistant Researcher
+
+- name: KJ Pittman
+  photo: KJ.png
+  info: Assistant Researcher
+  bsky: <a href="https://www.kjpittman.bsky.social">kjpittman</a>
 
 - name: Maya Hull
   photo: fly.png
   info: Undergraduate Student
 
 - name: Ben Anderson
-  photo: fly.png
+  photo: Ben.png
   info: Undergraduate Student
+  linkedin: <a href="https://www.linkedin.com/in/ben-anderson-20272827b">Ben Anderson</a>
