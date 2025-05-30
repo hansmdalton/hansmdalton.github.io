@@ -13,7 +13,8 @@ permalink: /pictures/
 #### Gallery
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/KU_Campus.jpg" width="60%">
+Lab celebration at Sunflower Cafe.
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/2025_05_Dalton_Lab_Group_Pic.jpg" width="60%">
 </figure>
 
 <figure>
