@@ -79,9 +79,6 @@ permalink: /team/
 {% endif %}
 
 
-## Master and Bachelor Students
-
-
 
 ## Previous Students and Alumni
 
@@ -149,4 +146,3 @@ permalink: /team/
 
 
 
-## Administrative Support
