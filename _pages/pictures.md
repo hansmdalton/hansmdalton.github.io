@@ -13,6 +13,11 @@ permalink: /pictures/
 #### Gallery
 
 <figure>
+Lab Halloween pumpkin carving.
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/2025_Dalton_Lab_Group_Halloween_vertical_crop.jpg" width="60%">
+</figure>
+
+<figure>
 Lab celebration at Sunflower Cafe.
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/2025_05_Dalton_Lab_Group_Pic.jpg" width="60%">
 </figure>
