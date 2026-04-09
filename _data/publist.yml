@@ -1,3 +1,12 @@
+- title: "PRE-PRINT: The stress-induced transcription factor ATF4 has multiple conserved retrocopies that can alter gene expression"
+  image: ATF4_2026.png
+  description: (PRE-PRINT). We characterize human and primate duplications (retrocopies) of the stress transcription factor ATF4, using both evolutionary and in vitro methodology. We determine that human ATF4 retrocopies are expressed and that their proteins can affect the expression of parental ATF4 target genes.
+  authors: Hans M. Dalton, Elizabeth M Brydon, Tiffany S. Chan, Katie Owings, Mandi Wild, Naomi J. Young, Clement Y. Chow
+  link:
+    url: https://www.biorxiv.org/content/10.64898/2026.03.31.714484v1
+    display: Pre-print, biorxiv (submitted for publication)
+  highlight: 1
+
 - title: "A drug repurposing screen reveals dopamine signaling as a critical pathway underlying potential therapeutics for the rare disease DPAGT1-CDG"
   image: Z-plot_for_website.png
   description: Using a drug repurposing screen, we find multiple therapeutics capable of improving a model of DPAGT1-CDG. Specifically, we identify dopamine signaling as a new potential therapeutic and new interacting pathway.
@@ -14,15 +23,6 @@
   link:
     url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010430
     display: PLOS Genetics (2022)
-  highlight: 1
-
-- title: "PRE-PRINT: The stress-induced transcription factor ATF4 has multiple conserved retrocopies that can alter gene expression"
-  image: ATF4_2026.png
-  description: (PRE-PRINT). We characterize human and primate duplications (retrocopies) of the stress transcription factor ATF4, using both evolutionary and in vitro methodology. We determine that human ATF4 retrocopies are expressed and that their proteins can affect the expression of parental ATF4 target genes.
-  authors: Hans M. Dalton, Elizabeth M Brydon, Tiffany S. Chan, Katie Owings, Mandi Wild, Naomi J. Young, Clement Y. Chow
-  link:
-    url: https://www.biorxiv.org/content/10.64898/2026.03.31.714484v1
-    display: Pre-print, biorxiv, submitted for publication
   highlight: 1
 
 - title: "Decoupling of Apoptosis from Activation of the ER Stress Response by the Drosophila Metallopeptidase superdeath"
