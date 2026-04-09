@@ -13,7 +13,7 @@ permalink: /research/
 <p align="justify">
 <strong>Lab research vision.</strong>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Research_Flowchart_2026.png" alt="" style="width: 250px; float: left; margin: 0px 10px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/2026_Research_Flowchart.png" alt="" style="width: 250px; float: left; margin: 0px 10px">
 Around <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7779065/">1,500-2,000 genes (~10%)</a> are <strong>essential</strong> - necessary to live or for fitness. These represent a diverse set of biological functions, including metabolism, protein synthesis, transcription, the cytoskeleton, and more. Relative to their importance, there is still much unknown about these genes - including many that still have <a href="https://www.nature.com/articles/nrg.2017.75">no known function</a>!
 </p>
 <p align="justify">
