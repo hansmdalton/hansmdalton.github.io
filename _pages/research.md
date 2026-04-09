@@ -13,7 +13,7 @@ permalink: /research/
 <p align="justify">
 <strong>Lab research vision.</strong>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Research_Flowchart.png" alt="" style="width: 250px; float: left; margin: 0px 10px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Research_Flowchart_2026.png" alt="" style="width: 250px; float: left; margin: 0px 10px">
 Around <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7779065/">1,500-2,000 genes (~10%)</a> are <strong>essential</strong> - necessary to live or for fitness. These represent a diverse set of biological functions, including metabolism, protein synthesis, transcription, the cytoskeleton, and more. Relative to their importance, there is still much unknown about these genes - including many that still have <a href="https://www.nature.com/articles/nrg.2017.75">no known function</a>!
 </p>
 <p align="justify">
@@ -41,10 +41,19 @@ One of the best properties of drug repurposing is that most of the drugs tested 
 </p>
 
 <p align="justify">
-<strong>Beyond drug screening.</strong>
+<strong>Essential gene duplications.</strong>
 
 
-Essential genes are also fascinating from a basic science perspective. For example, in the context of aging biology, some essential genes can actually be beneficial to inhibit as an adult animal - increasing both healthspan and lifespan! The genomics of essential genes are also interesting - for example, why are there so many essential genes, when other similar genes have been duplicated? We are very interested in studying these questions and more!
+What happens when an essential gene is duplicated? Can it lose its essentiality? We characterize a understudied class of gene duplications called "retrocopies" - when our genes are duplicated from their mRNA transcripts. There are ~8000 human retrocopies (<a href="https://www.rcpediadb.org">RCPedia</a>), and these are ~1.5x enriched for essential genes. We try to understand the function of these duplications, if any, using evolutionary and in vitro methods.
+</p>
+
+
+<p align="justify">
+<strong>Future studies.</strong>
+
+In aging biology, some essential genes can actually be beneficial to inhibit as an adult animal - increasing both healthspan and lifespan! Is there a "tipping point" where a gene no longer is useful (antagonistic pleiotropy), and what is that window? We are interested in this question and more in this field.
+
+Something here look interesting? Consider reaching out! We'd love to hear from you.
 </p>
 
 
