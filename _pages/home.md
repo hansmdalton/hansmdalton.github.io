@@ -70,7 +70,9 @@ Some of the things our lab does:
 
   <li> Testing human cell lines to determine the impact of pathways and treatments
 
-  <li> Unexplored-but-exciting ideas like aging and retrocopy analysis of essential genes
+  <li> Analysis of essential gene duplications using evolutionary and cell-based methods
+
+  <li> Unexplored-but-exciting ideas like aging analysis of essential genes
 
   <li> Please see [research]({{ site.baseurl }}/research/) for more information!
 
