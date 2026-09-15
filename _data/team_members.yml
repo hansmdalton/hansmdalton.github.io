@@ -34,7 +34,7 @@
 
 - name: Maya Hull
   photo: Maya.jpg
-  info: Undergraduate Student
+  info: Assistant Researcher. Former Undergraduate Student.
 
 - name: Nehemiah Gomendoza
   photo: Nehemiah.jpg
@@ -42,4 +42,8 @@
 
 - name: Reese Harned
   photo: Reese.jpg
+  info: Undergraduate Student
+
+- name: Aine Conner
+  photo: Aine.jpg
   info: Undergraduate Student
